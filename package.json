@@ -1,9 +1,11 @@
 {
-  "name": "jumpcloud-AD-disconnect",
+  "name": "jumpcloud-disconnect-active-directory",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "type": "module",
+	"author": "michael.ventura@gmail.com",
+	"repository": "https://github.com/mquinnv/jumpcloud-disconnect-active-directory.git",
   "dependencies": {
     "axios": "^0.21.1",
     "dotenv": "^8.2.0"
